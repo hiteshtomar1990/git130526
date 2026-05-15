@@ -2,4 +2,8 @@ this is file 1 creted to test the git
 CODE MODEFIED   
 new feature added
 4th lines add in the file
+<<<<<<< HEAD
 5th line added in file 1 on remote for no rebase demo
+=======
+5th line added on branch1 on local for no rebase demo
+>>>>>>> 761279c (local no rebase demo)
